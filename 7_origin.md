@@ -1,6 +1,6 @@
 # Chapter 7
 
-## Matchmaker, Matchmaker
+# Matchmaker, Matchmaker
 
 At a fundamental level, economics is about resource allocation, or who gets what? Mainstream introductory textbooks suggest that prices play a critical role in the answer. Those willing and able to pay the going price for goods and services sold in the market get what suppliers make available. In competitive markets, this outcome is said to be efficient.
 
