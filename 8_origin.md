@@ -1,6 +1,6 @@
 #Economists and Mostly Good Financial Engineering
 
-    We now come to the chapter about economists and finance. Given the bad reputation that the subject has earned in the wake of the financial crisis, l purposely delayed discussing it until l've put you in a better mood.
+  We now come to the chapter about economists and finance. Given the bad reputation that the subject has earned in the wake of the financial crisis, l purposely delayed discussing it until l've put you in a better mood.
   
     Seriously, economists, or actually financial economists, have made major contributions to our understanding of the way not only how the financial sector works, but also how the overall economy operates. Modern economies would not exit without modern financial sectors and systems, for finance is the lifeblood of all economies. When it works as it is supposed to, financial institutions and markets are not just abstract middleman, but essential institutions that enable people and firms to save and diversify their wealth. Just as clogged arteries and malfunctioning hearts can debilitate or kill people, finance gone wrong can do the sanmeto economies. That is why financial engineering , in some quarters, no longer has the desirable connotations it once did. As an aside, most of those innovations that turned out wrong were not invented by economists, although many economists, including some famous and important ones, were late in realizing percisely how wrong they turned out to be.
   
