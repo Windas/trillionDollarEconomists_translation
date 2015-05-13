@@ -26,6 +26,12 @@ To understand the field of market design and the economics of matchmaking, remem
 
 In the context of market design, market failure refers primarily to the specific rules (or lack thereof) and characteristics of markets that sometimes impede efficient matching. In particular, there are three kinds of market failure that the market designers study:
 
+1. Markets can fail to provide *thickness*, or to bring together enough buyers and sellers to transct with each other to make a real marke.
+2. Markets can fail to overcome congestion, or to provide participants with enough time, or with the means to conduct transactions fast enough to make satisfactory choices when faced with many alternatives.
+3. Markets can fail to make it *safe* for participants to reveal or act on confidential information they may hold.
+
+The primary motive for economists interested in improvig market design is to cerrect hese market failures, and more broadly, to make markets work more efficiently by better mathcing individual suppliers with purchasers or those on the demand side of transactions. As such, market designers are interested in improving both traditional markets governed by a price mechanism and nontraditional markets, where the scace goods to be allocated are heterogeneous and indivisible and prices may not be key to reconciling supply and demand. Examples of the latter include which students go to certain schools, which workers get specific jobs, and who receives which transplantable organ.
+
 > ### Lloyd Shapley
 Lloyd Shapley, like a number of Nelbel Prize winners in economics, did not get his formal training in the subject. Nonetheless, during the courseof his career, he make significant contributions to game theory, market design,and matching theory, and was recognized by the Nobel committee in 2012 (along with Alvin Roth) for the importance of this work.
 
