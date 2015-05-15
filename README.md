@@ -5,5 +5,6 @@
 :----------- | :-----------: | :-----------:
 第一章 | 27.7% | 0%
 第二章 | 0% | 0%
+第八章 | 90% | 1%
 
 项目主页：<https://github.com/Windas/trillionDollarEconomists_translation>
